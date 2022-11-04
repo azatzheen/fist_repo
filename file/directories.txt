@@ -1,0 +1,2 @@
+ azat   Disk1         for     kivanoparser  lesson5  lesson8  module.py     parserbot       snap     telegrwmbot  var   wather_bot  Документы  Изображения  Общедоступные
+cdrom  dosmartov.py  github  lesson10      lesson7  lesson9  my_module.py  python_lessons  ssh-key  tmp          venv  Видео       Загрузки   Музыка       Шаблоны  
